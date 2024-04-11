@@ -24,9 +24,9 @@
 
 
   # 사 진
-<img width="300" alt="스크린샷 2024-04-08 09 23 25" src="https://github.com/tom3017/hotPlaceList/assets/150423973/98ee41b7-06d0-4c8a-99d0-8f20c6601edf">
-  <img width="300" alt="스크린샷 2024-04-08 09 19 11" src="https://github.com/tom3017/hotPlaceList/assets/150423973/271073be-ffcb-4227-a646-674af1419950">
-<img width="300" alt="스크린샷 2024-04-11 09 31 31" src="https://github.com/tom3017/hotPlaceList/assets/150423973/20d091db-d835-44fa-8203-4ddbbd353323"> <br>
+<img width="250" alt="스크린샷 2024-04-08 09 23 25" src="https://github.com/tom3017/hotPlaceList/assets/150423973/98ee41b7-06d0-4c8a-99d0-8f20c6601edf">
+  <img width="250" alt="스크린샷 2024-04-08 09 19 11" src="https://github.com/tom3017/hotPlaceList/assets/150423973/271073be-ffcb-4227-a646-674af1419950">
+<img width="250" alt="스크린샷 2024-04-11 09 31 31" src="https://github.com/tom3017/hotPlaceList/assets/150423973/20d091db-d835-44fa-8203-4ddbbd353323"> <br>
 
 
 
